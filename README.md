@@ -1,2 +1,2 @@
 # git-github
-learning project
+learning project(tutorial)
